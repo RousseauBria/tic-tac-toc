@@ -1,0 +1,12 @@
+#jeu{
+    height: 700px;
+    width: 700px;
+}
+
+button{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: black solid 1px;
+    margin: 50px;
+}
